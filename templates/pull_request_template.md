@@ -22,6 +22,7 @@ Before submitting your pull request, please review the following:
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] My PR title follows the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification) specification.
 
 ## Additional Notes
 Add any other context about the pull request here.
