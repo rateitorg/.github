@@ -32,6 +32,12 @@ Each repository should have this in the ./github directory. [Download here](http
 
 #### Why?
 - To assigned an owner/s to a repository.
+
+### CONTRIBUTING.md
+Each repository should have this in the root.[Download here](https://github.com/rateitorg/.github/blob/main/templates/CONTRIBUTING.md)
+
+#### Why?
+- Shows how to contribute to a repository.
  
 ### branch-ruleset.json
 Each repository should have this a branch rule set. [Download here](https://github.com/rateitorg/.github/blob/main/templates/branch-ruleset.json)
