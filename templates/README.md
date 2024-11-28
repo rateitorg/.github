@@ -17,4 +17,4 @@ We welcome contributions! Please look at (Contributing.md)[<LINK_TO_REPO_CONTRIB
 ## Licence
 <LICENCE_TYPE>
 
-Copyright (c) <LAST_YEAR> - <THIS_YEAR> Jake Brunning, Gabriel Guimaraes, Callun Thiart. All Rights Reserved.
+Copyright (c) <YEAR_START> - <CURRENT_YEAR> Jake Brunning, Gabriel Guimaraes, Callun Thiart. All Rights Reserved.
